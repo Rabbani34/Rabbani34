@@ -12,7 +12,7 @@
 <!--                   TYPING ANIMATION                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=680&lines=%F0%9F%A7%A0+Building+AI+systems+that+actually+work;%F0%9F%8E%93+M.Tech+AI+%40+VIT+Bhopal+University;%F0%9F%A9%BA+94.2%25+accuracy+on+medical+image+diagnosis;%F0%9F%9A%80+4%2B+deployed+projects+%C2%B7+7+certifications;%F0%9F%A4%9D+Open+to+Data+Science+%26+ML+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=680&lines=%F0%9F%A7%A0+Building+AI+systems+that+actually+work;%F0%9F%8E%93+Int.M.Tech+AI+%40+VIT+Bhopal+University;%F0%9F%A9%BA+94.2%25+accuracy+on+medical+image+diagnosis;%F0%9F%9A%80+4%2B+deployed+projects+%C2%B7+7+certifications;%F0%9F%A4%9D+Open+to+Data+Science+%26+ML+Internships)](https://git.io/typing-svg)
 
 <br/>
 
