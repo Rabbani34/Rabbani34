@@ -12,7 +12,7 @@
 <!--                   TYPING ANIMATION                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=680&lines=%F0%9F%A7%A0+Building+AI+systems+that+actually+work;%F0%9F%8E%93+M.Tech+AI+%40+VIT+Bhopal+%C2%B7+CGPA+8.0;%F0%9F%A9%BA+94.2%25+accuracy+on+medical+image+diagnosis;%F0%9F%9A%80+4%2B+deployed+projects+%C2%B7+7+certifications;%F0%9F%A4%9D+Open+to+Data+Science+%26+ML+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=680&lines=%F0%9F%A7%A0+Building+AI+systems+that+actually+work;%F0%9F%8E%93+M.Tech+AI+%40+VIT+Bhopal+University;%F0%9F%A9%BA+94.2%25+accuracy+on+medical+image+diagnosis;%F0%9F%9A%80+4%2B+deployed+projects+%C2%B7+7+certifications;%F0%9F%A4%9D+Open+to+Data+Science+%26+ML+Internships)](https://git.io/typing-svg)
 
 <br/>
 
@@ -52,7 +52,6 @@ class MohammedRabbani:
     degree      = "Integrated M.Tech · Artificial Intelligence"
     university  = "VIT Bhopal University  🎓"
     year        = "3rd Year  ·  Expected 2029"
-    cgpa        = 8.0
     location    = "Bhopal, India  🇮🇳"
 
     focus = [
@@ -238,20 +237,6 @@ class MohammedRabbani:
 ---
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rabbani34&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
 <!--               CERTIFICATIONS                           -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -322,8 +307,6 @@ class MohammedRabbani:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CGPA-8.0%20%2F%2010-a78bfa?style=for-the-badge&labelColor=0f0c29"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Projects-4%2B%20Deployed-c4b5fd?style=for-the-badge&labelColor=0f0c29"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Certifications-7-7c3aed?style=for-the-badge&labelColor=0f0c29"/>
